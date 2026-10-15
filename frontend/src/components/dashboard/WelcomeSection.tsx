@@ -12,7 +12,7 @@ export const WelcomeSection: React.FC = () => {
           <span>GitHub Repository Explorer</span>
         </div>
         <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight text-typography-primary">
-          GITHUBRUPOCONTECTER
+          GitHub Analytics Dashboard
         </h1>
         <p className="text-sm sm:text-base text-typography-secondary mt-2 leading-relaxed">
           Search GitHub repositories, check recent commits, inspect contributors and issues, and bookmark projects for quick access.

@@ -31,8 +31,8 @@ export const Sidebar: React.FC<SidebarProps> = ({ className, onItemClick }) => {
             <GitBranch className="w-4 h-4" />
           </div>
           <div className="min-w-0">
-            <h1 className="text-xs font-bold tracking-tight text-typography-primary truncate" title="GITHUBRUPOCONTECTER">
-              GITHUBRUPOCONTECTER
+            <h1 className="text-xs font-bold tracking-tight text-typography-primary truncate" title="GitHub Analytics">
+              GitHub Analytics
             </h1>
             <p className="text-[10px] text-typography-muted truncate">
               Repository Explorer

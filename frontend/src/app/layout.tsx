@@ -6,11 +6,11 @@ import { ToastProvider } from '@/components/feedback/ToastProvider';
 import { AppShell } from '@/components/layout/AppShell';
 
 export const metadata: Metadata = {
-  title: 'GITHUBRUPOCONTECTER',
+  title: 'GitHub Analytics Dashboard',
   description:
     'Search GitHub repositories, inspect commits and contributors, and save your favourite repositories.',
   keywords: [
-    'GITHUBRUPOCONTECTER',
+    'GitHub Analytics Dashboard',
     'GitHub',
     'Repository Explorer',
     'Developer Tools',
